@@ -15,3 +15,16 @@ The pipeline is as follows:
 
 
 This project is a proof of concept. It needs a better visual and design development.
+
+
+### Technologies used
+
++ [LangChain](https://www.langchain.com/)
++ [OpenAI GPT4](https://openai.com/)
++ [Chroma](https://www.trychroma.com/)
++ [Python-pptx](https://python-pptx.readthedocs.io/en/latest/)
+
+
+### How to use this repo
+
+First, we need to store the OpenAI API KEY in a `.env` file to load it with the dotenv library and use it as an environment variable. In `notebooks` folder there is a jupyter notebook with a step by step explanation of the project. 
