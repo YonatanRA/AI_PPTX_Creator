@@ -12,3 +12,6 @@ The pipeline is as follows:
 2. We feed a first LLM to create a bullet point list.
 3. With that list, we ask a second LLM to create Python-pptx code.
 4. We execute that code to create a pptx file.
+
+
+This project is a proof of concept. It needs a better visual and design development.
