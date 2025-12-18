@@ -1,0 +1,10 @@
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+chromadb
+pypdf
+python-pptx
+jupyter
+google-genai
+Pillow
