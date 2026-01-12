@@ -1,0 +1,28 @@
+# Core dependencies
+python-dotenv>=1.0.0
+
+# LangChain ecosystem
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-google-genai>=1.0.0
+
+# Vector database
+chromadb>=0.4.0
+
+# PDF processing
+pypdf>=3.0.0
+
+# Google AI
+google-genai>=1.0.0
+google-auth>=2.25.0
+google-api-python-client>=2.110.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Optional: For notebook support
+jupyter>=1.0.0
+
+# Optional: For the original OpenAI version
+# langchain-openai>=0.0.5
+# python-pptx>=0.6.21
